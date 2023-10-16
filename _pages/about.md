@@ -8,6 +8,8 @@ redirect_from:
   - /about.html
 ---
 
+About Me
+======
 Hello! My name is Yishu Ji.
 
 I'm a senior undgraduate in the [Department of Industrial Engineering](https://www.ie.tsinghua.edu.cn/) at [Tsinghua University](https://www.tsinghua.edu.cn/en/) studying industrial engineering as my major, and psychology as my minor.
