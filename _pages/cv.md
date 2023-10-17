@@ -7,13 +7,13 @@ redirect_from:
   - /resume
 ---
 
-{% include base_path %}[Download the pdf version here.](https://chengyuehuang511.github.io/files/YishuJI_s_CV.pdf)
+{% include base_path %}
+[Download the pdf version here.](https://chengyuehuang511.github.io/files/YishuJI_s_CV.pdf)
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Industrial Engineering, Tsinghua University, 2023(expected)
+* Minor Degree in Psychology, Tsinghua University, 2023(expected)
 
 Work experience
 ======
