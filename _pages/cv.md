@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 
-{% include base_path %}
+{% include base_path %}[Download the pdf version here.](https://chengyuehuang511.github.io/files/YishuJI_s_CV.pdf)
 
 Education
 ======
