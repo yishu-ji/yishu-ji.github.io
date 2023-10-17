@@ -12,21 +12,21 @@ redirect_from:
 
 Education
 ======
-* B.S. in Industrial Engineering, Tsinghua University, 2024(expected)
+* B.Eng. in Industrial Engineering, Tsinghua University, 2024(expected)
 * Minor in Psychology, Tsinghua University, 2024(expected)
 * Exchange program in Information Science, Cornell University, 2023
 
-Work experience
+Research experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Summer 2023: Research Assistant
+  * [Department of Information Science at Cornell University](https://infosci.cornell.edu/)
+  * Duties included: !!!TODO
+  * Supervisor: Prof. Rzeszotarski, Ph.D. student Nathan Yan
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Summer 2022 - Summer 2023: Research Assistant
+  * Department of Computer Science and Technology at Tsinghua University
+  * Duties included: !!!TODO
+  * Supervisor: Prof. Yukang Yan, Prof. Yuanchun Shi, Ph.D. student Zhipeng Li
   
 Skills
 ======
