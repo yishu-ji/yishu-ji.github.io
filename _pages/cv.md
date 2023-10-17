@@ -13,7 +13,7 @@ redirect_from:
 Education
 ======
 * B.S. in Industrial Engineering, Tsinghua University, 2023(expected)
-* Minor Degree in Psychology, Tsinghua University, 2023(expected)
+* B.S. in Psychology (Minor), Tsinghua University, 2023(expected)
 
 Work experience
 ======
