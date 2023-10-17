@@ -29,7 +29,7 @@ comments:
   facebook:
     appid                :
     num_posts            : # 5 (default)
-    colorscheme          :  "dark"
+    colorscheme          :  "light"
 staticman:
   allowedFields          : ['name', 'email', 'url', 'message']
   branch                 : "gh-pages" # "master", "gh-pages"
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Yishu Ji 纪奕姝"
+  name             : "Yishu Ji"
   avatar           : "profile_yishuji.png"
   bio              : "Undergraduate at Tsinghua University"
   location         : "Beijing, China"
