@@ -12,8 +12,9 @@ redirect_from:
 
 Education
 ======
-* B.S. in Industrial Engineering, Tsinghua University, 2023(expected)
-* B.S. in Psychology (Minor), Tsinghua University, 2023(expected)
+* B.S. in Industrial Engineering, Tsinghua University, 2024(expected)
+* Minor in Psychology, Tsinghua University, 2024(expected)
+* Exchange program in Information Science, Cornell University, 2023
 
 Work experience
 ======
