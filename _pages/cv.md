@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 {% include base_path %}
-[Download the pdf version here.](https://chengyuehuang511.github.io/files/YishuJI_s_CV.pdf)
+[Download the pdf version here.](https://yishu-ji.github.io/files/YishuJI_s_CV.pdf)
 
 Education
 ======
