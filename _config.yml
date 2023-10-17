@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Yishu Ji / Homepage"
 title_separator          : "-"
 name                     : &name "Yishu Ji"
-description              : &description "a senior undergraduate at Tsinghua University"
+description              : &description "A senior undergraduate at Tsinghua University"
 url                      : https://yishu-ji.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "yishu-ji/yishu-ji.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Yishu Ji 纪奕姝"
   avatar           : "profile_yishuji.png"
-  bio              : "Undergraduate at Tsinghua University"
+  bio              : "A senior undergraduate at Tsinghua University"
   location         : "Beijing, China"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
