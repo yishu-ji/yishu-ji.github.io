@@ -27,34 +27,27 @@ Research experience
   * Department of Computer Science and Technology at Tsinghua University
   * Duties included: !!!TODO
   * Supervisor: Prof. Yukang Yan, Prof. Yuanchun Shi, Ph.D. student Zhipeng Li
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
 
 Publications
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Talks
+  Zhipeng Li, \textbf{Yishu Ji}, Ruijia Chen, Tianqi Liu, Yuntao Wang, Yuanchun Shi, Yukang Yan. "Modelling Effects of Visual Attention on Noticeability of Body-Avatar Offsets in
+Virtual Reality". [In submission to: \textit{The 2024 CHI Conference on
+Human Factors in Computing Systems}]
+
+Awards
 ======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
+* Tsinghua Comprehensive Excellence Award, 2022, 2020
+* Tsinghua University ”December 9th” Award (the highest scholarship for Tsinghua sophomores), 2021
+
+Skills
 ======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* Python
+  * Basic packages including Numpy, Pandas
+* Skill 2
+  * Sub-skill 2.1
+  * Sub-skill 2.2
+  * Sub-skill 2.3
+* Skill 3
