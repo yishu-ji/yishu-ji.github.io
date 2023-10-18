@@ -34,7 +34,7 @@ Publications
 
 Awards
 ======
-* Tsinghua Comprehensive Excellence Award, 2022, 2020
+* Tsinghua Comprehensive Excellence Award, 2022 & 2020
 * Tsinghua University ”December 9th” Award (the highest scholarship for Tsinghua sophomores), 2021
 
 Skills
