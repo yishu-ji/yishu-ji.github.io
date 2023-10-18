@@ -30,14 +30,7 @@ Research experience
 
 Publications
 ======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% Zhipeng Li, Yishu Ji, Ruijia Chen, Tianqi Liu, Yuntao Wang, Yuanchun Shi, Yukang Yan. "Modelling Effects of Visual Attention on Noticeability of Body-Avatar Offsets in
-Virtual Reality". [In submission to: \textit{The 2024 CHI Conference on
-Human Factors in Computing Systems}] %}</ul>
-  Zhipeng Li, Yishu Ji, Ruijia Chen, Tianqi Liu, Yuntao Wang, Yuanchun Shi, Yukang Yan. "Modelling Effects of Visual Attention on Noticeability of Body-Avatar Offsets in
-Virtual Reality". [In submission to: \textit{The 2024 CHI Conference on
-Human Factors in Computing Systems}]
+* Zhipeng Li, **Yishu Ji**, Ruijia Chen, Tianqi Liu, Yuntao Wang, Yuanchun Shi, Yukang Yan. "Modelling Effects of Visual Attention on Noticeability of Body-Avatar Offsets in Virtual Reality". (In submission to: *The 2024 CHI Conference on Human Factors in Computing Systems*)
 
 Awards
 ======
