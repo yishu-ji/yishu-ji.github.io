@@ -44,10 +44,11 @@ Awards
 
 Skills
 ======
-* Python
-  * Basic packages including Numpy, Pandas
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Coding language including Python, C etc.
+* Data analysis system including R, SPSS etc.
+* Unity
+* SQL
+* Latex
+* User-centered design (UCD)
+* Experiment design
+* Qualitative & quantitative research method
