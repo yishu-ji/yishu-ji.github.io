@@ -20,12 +20,12 @@ Research experience
 ======
 * Summer 2023: Research Assistant
   * [Department of Information Science at Cornell University](https://infosci.cornell.edu/)
-  * Duties included: !!!TODO
+  * Duties included: Performed prompt tuning on the LLMs, modeled the behavioral process of performing data exploration, designed the user study, and built up an embedded experiment platform inside Jupyter Lab.
   * Supervisor: Prof. Rzeszotarski, Ph.D. student Nathan Yan
 
 * Summer 2022 - Summer 2023: Research Assistant
   * Department of Computer Science and Technology at Tsinghua University
-  * Duties included: !!!TODO
+  * Duties included: Designed and developed the experiment platform using **Unity 3D**; also designed as well as conducted the user study, and further analyzed the experiment data.
   * Supervisor: Prof. Yukang Yan, Prof. Yuanchun Shi, Ph.D. student Zhipeng Li
 
 Publications
