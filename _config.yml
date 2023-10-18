@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Yishu Ji / Homepage"
+title                    : "Yishu Ji's Homepage"
 title_separator          : "-"
 name                     : &name "Yishu Ji"
 description              : &description "Undergraduate at Tsinghua University"
