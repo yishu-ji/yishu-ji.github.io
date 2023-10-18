@@ -10,13 +10,13 @@ redirect_from:
 {% include base_path %}
 [Download the pdf version here.](https://yishu-ji.github.io/files/YishuJI_s_CV.pdf)
 
-Education
+📚 Education
 ======
-* B.Eng. in Industrial Engineering, Tsinghua University, 2024(expected)
-* Minor in Psychology, Tsinghua University, 2024(expected)
+* B.Eng. in Industrial Engineering, Tsinghua University, 2024 (expected)
+* Minor in Psychology, Tsinghua University, 2024 (expected)
 * Exchange program in Information Science, Cornell University, 2023
 
-Research experience
+🧐 Research experience
 ======
 * Summer 2023: Research Assistant
   * [Department of Information Science at Cornell University](https://infosci.cornell.edu/)
@@ -28,16 +28,16 @@ Research experience
   * Duties included: Designed and developed the experiment platform using **Unity 3D**; also designed as well as conducted the user study, and further analyzed the experiment data.
   * Supervisor: Prof. Yukang Yan, Prof. Yuanchun Shi, Ph.D. student Zhipeng Li
 
-Publications
+📑 Publications
 ======
 * Zhipeng Li, **Yishu Ji**, Ruijia Chen, Tianqi Liu, Yuntao Wang, Yuanchun Shi, Yukang Yan. **"Modelling Effects of Visual Attention on Noticeability of Body-Avatar Offsets in Virtual Reality"**. (In submission to: *The 2024 CHI Conference on Human Factors in Computing Systems*)
 
-Awards
+🏆 Awards
 ======
 * Tsinghua Comprehensive Excellence Award, 2022 & 2020
 * Tsinghua University ”December 9th” Award (the highest scholarship for Tsinghua sophomores), 2021
 
-Skills
+⚙️ Skills
 ======
 * Programming languages including Python, C etc.
 * Data analysis tools including R, SPSS etc.
