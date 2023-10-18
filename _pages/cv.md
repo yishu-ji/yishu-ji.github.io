@@ -14,7 +14,7 @@ redirect_from:
 ======
 * B.Eng. in Industrial Engineering, Tsinghua University, 2024 (expected)
 * Minor in Psychology, Tsinghua University, 2024 (expected)
-* Exchange program in Information Science, Cornell University, 2023
+* Exchange program in Information Science, Cornell University, 2023 Spring
 
 🧐 Research experience
 ======
