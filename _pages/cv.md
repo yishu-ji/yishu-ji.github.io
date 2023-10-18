@@ -39,8 +39,8 @@ Awards
 
 Skills
 ======
-* Coding language including Python, C etc.
-* Data analysis system including R, SPSS etc.
+* Programming languages including Python, C etc.
+* Data analysis tools including R, SPSS etc.
 * Unity
 * SQL
 * Latex
