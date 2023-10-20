@@ -6,14 +6,14 @@
 
 html {
   /* apply a natural box layout model to all elements */
-  box-sizing: border-box;
+   box-sizing: border-box;
   // background-color: $background-color;
-  background-image: url(https://github.com/yishu-ji/yishu-ji.github.io/blob/master/images/background.jpg);
-  background-size: 100%;
-  background-repeat: no-repeat;
-  background-attachment: fixed;
-  background-position: center;
-  
+   background-image: url(https://github.com/yishu-ji/yishu-ji.github.io/blob/master/images/background.jpg);
+   background-size: 100%;
+   background-repeat: no-repeat;
+   background-attachment: fixed;
+   background-position: center;
+   
    font-size: 8px;
 
   @include breakpoint($medium) {
