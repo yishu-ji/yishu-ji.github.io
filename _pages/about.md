@@ -17,7 +17,7 @@ During my undergrad at Tsinghua, I was honored to collaborate with [Dr.Yukang Ya
 Generally speaking, My research interest broadly lies in **"cognitive"** and **"visual"** aspect of **Human-Computer Interaction**. To be more specific, I am very interested in understanding how people would perceive/behave when using new technology, especially those incorporating visual information, through both quantitative and qualitative methods; and subsequently developing optimized tools or approaches to facilitate user experience as well as enhance the interactions.
 
 
-Outside of my main pursuits, I've spent lots of time dancing or engaging in sports since childhood. I was recognized as a Chinese National Level Three Athlete in [Aerobics Gymnastics](https://en.wikipedia.org/wiki/Aerobic_gymnastics) at the age of 10.
+Outside of my main pursuits, I've spent lots of time dancing or engaging in sports since an early age. I was recognized as a Chinese National Level Three Athlete in [Aerobics Gymnastics](https://en.wikipedia.org/wiki/Aerobic_gymnastics) at the age of 10.
 
 News
 ======
