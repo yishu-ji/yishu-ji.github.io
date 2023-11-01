@@ -19,7 +19,5 @@ Generally speaking, My research interest broadly lies in **"cognitive"** and **"
 
 Outside of my main pursuits, I've spent lots of time dancing or engaging in sports since an early age. I was recognized as a Chinese National Level Three Athlete in [Aerobics Gymnastics](https://en.wikipedia.org/wiki/Aerobic_gymnastics) at the age of 10.
 
-News
-======
 
 
