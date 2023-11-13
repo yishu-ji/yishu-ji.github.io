@@ -18,11 +18,11 @@ redirect_from:
 
 🧐 Research experience
 ======
-* Summer 2023: Research Assistant @ **Department of Information Science at Cornell University**
+* Summer 2023: Research Assistant @ **Cornell University CIS**
   * Duties included: Designed and implemented user studies to examine the assistive performance of LLMs on data exploration, and constructed behavioral models for data exploration processes, and developed design prototypes.
   * Supervisor: [Prof. Rzeszotarski](jeffrz.com)
 
-* Summer 2022 - Summer 2023: Research Assistant @ **PI Lab at Department of Computer Science and Technology at Tsinghua University**
+* Summer 2022 - Summer 2023: Research Assistant @ **PI Lab at Tsinghua University**
   * Duties included: Designed a user study and developed a Unity 3D-based study platform to conduct the experiment. Also performed statistic analysis of the experimental data to yield insights.
   * Supervisor: [Prof. Yukang Yan](https://yukangyan.info/), [Prof. Yuanchun Shi](https://www.cs.tsinghua.edu.cn/csen/info/1180/4037.htm)
 
