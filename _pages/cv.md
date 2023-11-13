@@ -20,13 +20,13 @@ redirect_from:
 ======
 * Summer 2023: Research Assistant
   * [Department of Information Science at Cornell University](https://infosci.cornell.edu/)
-  * Duties included: Performed prompt tuning on the LLMs, modeled the behavioral process of performing data exploration, designed the user study, and built up an embedded experiment platform inside Jupyter Lab.
-  * Supervisor: Prof. Rzeszotarski, Ph.D. student Nathan Yan
+  * Duties included: Designed and implemented user studies to examine the assistive performance of LLMs on data exploration, and constructed behavioral models for data exploration processes, and developed design prototypes.
+  * Supervisor: [Prof. Rzeszotarski](jeffrz.com)
 
 * Summer 2022 - Summer 2023: Research Assistant
-  * Department of Computer Science and Technology at Tsinghua University
-  * Duties included: Designed and developed the experiment platform using **Unity 3D**; also designed as well as conducted the user study, and further analyzed the experiment data.
-  * Supervisor: Prof. Yukang Yan, Prof. Yuanchun Shi, Ph.D. student Zhipeng Li
+  * PI Lab at Department of Computer Science and Technology at Tsinghua University
+  * Duties included: Designed a user study and developed a Unity 3D-based study platform to conduct the experiment. Also performed statistic analysis of the experimental data to yield insights.
+  * Supervisor: [Prof. Yukang Yan](https://yukangyan.info/), [Prof. Yuanchun Shi](https://www.cs.tsinghua.edu.cn/csen/info/1180/4037.htm)
 
 📑 Publications
 ======
