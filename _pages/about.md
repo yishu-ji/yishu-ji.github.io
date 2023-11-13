@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Hello! "
+title: " "
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,8 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-## Hello World
+*** 📢 I'm looking for PhD position at HCI/HAI/VIS starting in Fall 2024!
 
+## Hello!
 My name is Yishu Ji.
 
 I'm currently a senior undgraduate in the [Department of Industrial Engineering](https://www.ie.tsinghua.edu.cn/) at [Tsinghua University](https://www.tsinghua.edu.cn/en/), majoring in industrial engineering while studying a psychology minor. 
