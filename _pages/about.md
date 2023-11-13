@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-#### 📢 I'm looking for PhD position in HCI/HAI/VIS starting in Fall 2024!
+### 📢 I'm looking for PhD position in HCI/HAI/VIS starting in Fall 2024!
 
 ## Hello!
 My name is Yishu Ji.
