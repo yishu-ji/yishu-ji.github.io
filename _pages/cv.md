@@ -20,15 +20,15 @@ redirect_from:
 ======
 * Summer 2023: Research Assistant @ **Cornell University CIS**
   * Advised by [Prof. Rzeszotarski](jeffrz.com)
-  * ○ Built up novel tools with LLMs that could perform automatic data analysis and visualization.
-  * ○ Designed and implemented user studies to examine the assistive performance of LLMs on data exploration.
-  * ○ Constructed behavioral models for data exploration processes, and developed design prototypes.
+    * Built up novel tools with LLMs that could perform automatic data analysis and visualization.
+    * Designed and implemented user studies to examine the assistive performance of LLMs on data exploration.
+    * Constructed behavioral models for data exploration processes, and developed design prototypes.
 
 * Summer 2022 - Summer 2023: Research Assistant @ **PI Lab at Tsinghua University**
   * Advised by [Prof. Yukang Yan](https://yukangyan.info/) and [Prof. Yuanchun Shi](https://www.cs.tsinghua.edu.cn/csen/info/1180/4037.htm)
-  * ○ Developed a computational model of user’s perception of inconsistency in User-Avatar movement in VR.
-  * ○ Designed a user study and developed a Unity 3D-based study platform to conduct the experiment.
-  * ○ Performed statistic analysis of the experimental data to yield insights.
+    * Developed a computational model of user’s perception of inconsistency in User-Avatar movement in VR.
+    * Designed a user study and developed a Unity 3D-based study platform to conduct the experiment.
+    * Performed statistic analysis of the experimental data to yield insights.
 
 📑 Publications
 ======
