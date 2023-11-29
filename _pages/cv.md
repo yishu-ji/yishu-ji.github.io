@@ -19,12 +19,16 @@ redirect_from:
 🧐 Research experience
 ======
 * Summer 2023: Research Assistant @ **Cornell University CIS**
-  * Supervised by [Prof. Rzeszotarski](jeffrz.com)
-  * Duties included: Designed and implemented user studies to examine the assistive performance of LLMs on data exploration, and constructed behavioral models for data exploration processes, and developed design prototypes.
+  * Advised by [Prof. Rzeszotarski](jeffrz.com)
+  * ○ Built up novel tools with LLMs that could perform automatic data analysis and visualization.
+  * ○ Designed and implemented user studies to examine the assistive performance of LLMs on data exploration.
+  * ○ Constructed behavioral models for data exploration processes, and developed design prototypes.
 
 * Summer 2022 - Summer 2023: Research Assistant @ **PI Lab at Tsinghua University**
-  * Supervised by [Prof. Yukang Yan](https://yukangyan.info/) and [Prof. Yuanchun Shi](https://www.cs.tsinghua.edu.cn/csen/info/1180/4037.htm)
-  * Duties included: Designed a user study and developed a Unity 3D-based study platform to conduct the experiment. Also performed statistic analysis of the experimental data to yield insights.
+  * Advised by [Prof. Yukang Yan](https://yukangyan.info/) and [Prof. Yuanchun Shi](https://www.cs.tsinghua.edu.cn/csen/info/1180/4037.htm)
+  * ○ Developed a computational model of user’s perception of inconsistency in User-Avatar movement in VR.
+  * ○ Designed a user study and developed a Unity 3D-based study platform to conduct the experiment.
+  * ○ Performed statistic analysis of the experimental data to yield insights.
 
 📑 Publications
 ======
@@ -32,8 +36,8 @@ redirect_from:
 
 🏆 Awards
 ======
-* Tsinghua Comprehensive Excellence Award, 2020, 2022, 2023
 * Tsinghua University ”December 9th” Award (the highest scholarship for Tsinghua sophomores), 2021
+* Tsinghua Comprehensive Excellence Honor, 2023, 2022, 2021, 2020
 
 ⚙️ Skills
 ======
