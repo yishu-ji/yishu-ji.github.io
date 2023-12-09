@@ -19,7 +19,7 @@ redirect_from:
 🧐 Research experience
 ======
 * Summer 2023: Research Assistant @ **Cornell University CIS**
-  * Advised by [Prof. Rzeszotarski](jeffrz.com)
+  * Advised by [Prof. Jeff Rzeszotarski](jeffrz.com)
     * Built up novel tools with LLMs that could perform automatic data analysis and visualization.
     * Designed and implemented user studies to examine the assistive performance of LLMs on data exploration.
     * Constructed behavioral models for data exploration processes, and developed design prototypes.
