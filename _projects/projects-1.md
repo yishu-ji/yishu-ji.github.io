@@ -1,6 +1,6 @@
 ---
-title: "project item number 1"
-excerpt: "<b>#HCI #UserStudy</b><br/>Short description of project item number 1<br/><img src='/images/500x300.png'>"
+title: "Empathy Deck"
+excerpt: "<b>#HCI #UserStudy #Design</b><br/>A meta-research on fostering empathy-building during direct in-person interactions between designers and participants<br/><img src='/images/500x300.png'>"
 collection: projects
 ---
 
