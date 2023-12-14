@@ -4,7 +4,7 @@ excerpt: "<b>#Applied Statistics #Data Science</b><br/>Data Analytics on the con
 collection: projects
 ---
 
-It is a team project for **Applied Statistics and Data Analytics** that won the Best Poster Award 🏆. [Click to see our poster!](https://yishu-ji.github.io/files/TikTokPoster.pdf)<br/>
+It was the team project for **Applied Statistics and Data Analytics** that won **the Best Poster Award** 🏆. [Click to see our poster!](https://yishu-ji.github.io/files/TikTokPoster.pdf)<br/>
 
 We Conducted a meta-research as well as came up with design ideas to help junior UX designers foster empathy with their users.
 - Throughout the study, various qualitative research and design methods were employed, such as:
