@@ -1,5 +1,5 @@
 ---
-title: "Empathy Deck: Developing Empathy in Young Designers<br/>"
+title: "Empathy Deck: Developing Empathy in Young Designers(🏆 Most Thoughtful Award)<br/>"
 excerpt: "<b>#HCI #Qualitative User Study #Design</b><br/>A meta-research and design practice on fostering empathy-building during direct in-person interactions between designers and participants<br/>This is the team project for **INFO4400 Qualitative User Research and Design Methods** which won the 🏆Most Thoughtful Research Project Award🏆.<br/><img src='/images/EmpathyPoster.jpg' width='400' height='300'>"
 collection: projects
 ---
