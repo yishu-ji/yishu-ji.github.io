@@ -1,10 +1,10 @@
 ---
 title: "What makes a TikTok song popular? <br/>"
-excerpt: "<b>#Applied Statistics #Data Visualization</b><br/>Analysis the connections between features of a TikTok track and its popularity.<br/><img src='/images/EmpathyBulletJournal.jpg' width='400' height='300'>"
+excerpt: "<b>#Applied Statistics #Data Science</b><br/>Data Analytics on the connections between features of a TikTok track and its popularity.<br/><img src='/images/EmpathyBulletJournal.jpg' width='400' height='300'>"
 collection: projects
 ---
 
-This team project for **INFO4400 Qualitative User Research and Design Methods** won the Most Thoughtful Research Project Award 🏆. [Click to see our poster!](https://yishu-ji.github.io/files/EmpathyPoster.pdf)<br/>
+It is a team project for **Applied Statistics and Data Analytics** that won the Best Poster Award 🏆. [Click to see our poster!](https://yishu-ji.github.io/files/TikTokPoster.pdf)<br/>
 
 We Conducted a meta-research as well as came up with design ideas to help junior UX designers foster empathy with their users.
 - Throughout the study, various qualitative research and design methods were employed, such as:
