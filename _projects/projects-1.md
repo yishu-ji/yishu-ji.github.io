@@ -1,8 +1,9 @@
 ---
-title: "Empathy Deck"
-excerpt: "<b>#HCI #UserStudy #Design</b><br/>A meta-research on fostering empathy-building during direct in-person interactions between designers and participants<br/>(This is the team course project for INFO4400 Qualitative User Research and Design Methods)<img src='/images/500x300.png'>"
+title: "Empathy Deck - Developing Empathy in young Designers"
+excerpt: "<b>#HCI #UserStudy #Design</b><br/>A meta-research on fostering empathy-building during direct in-person interactions between designers and participants<br/><img src='/images/500x300.png'>"
 collection: projects
 ---
 
-- Conducted a meta-research to help junior UX designers foster empathy with their users.
+This is the team course project for INFO4400 Qualitative User Research and Design Methods
+- We Conducted a meta-research to help junior UX designers foster empathy with their users.
 - 
