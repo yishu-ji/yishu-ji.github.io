@@ -1,6 +1,6 @@
 ---
 title: "Empathy Deck: Developing Empathy in young Designers"
-excerpt: "<b>#HCI #UserStudy #Design</b><br/>A meta-research on fostering empathy-building during direct in-person interactions between designers and participants<br/><img src='/images/EmpathyPoster.jpg' width='150' height='150'>"
+excerpt: "<b>#HCI #UserStudy #Design</b><br/>A meta-research on fostering empathy-building during direct in-person interactions between designers and participants<br/><img src='/images/EmpathyPoster.jpg' width='200' height='150'>"
 collection: projects
 ---
 
