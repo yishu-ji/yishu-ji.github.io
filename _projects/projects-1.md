@@ -1,6 +1,6 @@
 ---
-title: "project item number 1[HCI][User Study]"
-excerpt: "Short description of project item number 1<br/><img src='/images/500x300.png'>"
+title: "project item number 1"
+excerpt: "Short description of project item number 1<br/>[HCI][User Study]<br/><img src='/images/500x300.png'>"
 collection: projects
 ---
 
