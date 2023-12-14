@@ -1,9 +1,9 @@
 ---
-title: "Empathy Deck: Developing Empathy in Young Designers<br/>Click to see our poster!"
-excerpt: "<b>#HCI #UserStudy #Design</b><br/>A meta-research and design practice on fostering empathy-building during direct in-person interactions between designers and participants<br/><br/><img src='/images/EmpathyPoster.jpg' width='400' height='300'>"
+title: "I-Cam: An Intelligent Photo Gallery"
+excerpt: "<b>#HCI #Android Development #Design</b><br/><br/><br/><img src='/images/I-Cam.png' width='400' height='300'>"
 collection: projects
 ---
 
-This is the team course project for INFO4400 Qualitative User Research and Design Methods
+This is the team course project for **HCI Theory and Technology**
 - We Conducted a meta-research to help junior UX designers foster empathy with their users.
 - 
