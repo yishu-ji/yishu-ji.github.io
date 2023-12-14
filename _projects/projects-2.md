@@ -1,5 +1,5 @@
 ---
-title: "What makes a TikTok song popular? <br/>"
+title: "What Makes a TikTok Song Popular? <br/>"
 excerpt: "<b>#Applied Statistics #Data Science</b><br/>Data Analytics on the connections between features of a TikTok track and its popularity.<br/><img src='/images/PCA.jpg' width='400' height='300'>"
 collection: projects
 ---
