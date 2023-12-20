@@ -9,8 +9,6 @@ author_profile: true
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
 {% endif %}
 
-{% include base_path %}
+**Modelling Effects of Visual Attention on Noticeability of Body-Avatar Offsets in Virtual Reality**
+Zhipeng Li, Yishu Ji, Ruijia Chen, Tianqi Liu, Yuntao Wang, Yuanchun Shi, Yukang Yan
 
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
