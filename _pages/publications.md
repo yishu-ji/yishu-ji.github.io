@@ -10,5 +10,6 @@ author_profile: true
 {% endif %}
 
 **Modelling Effects of Visual Attention on Noticeability of Body-Avatar Offsets in Virtual Reality**
+
 Zhipeng Li, Yishu Ji, Ruijia Chen, Tianqi Liu, Yuntao Wang, Yuanchun Shi, Yukang Yan
 
