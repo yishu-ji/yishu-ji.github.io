@@ -1,3 +1,4 @@
+
 # Welcome to Jekyll!
 #
 # This config file is meant for settings that affect your entire site, values
@@ -83,7 +84,7 @@ author:
   name             : "Yishu Ji"
   avatar           : "bio-photo-3.jpg"
   bio              : "Ph.D. student at Georgia Tech"
-  location         : "Beijing, China"
+  location         : "Atlanta, GA"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : # "http://yourfullgooglescholarurl.com"
