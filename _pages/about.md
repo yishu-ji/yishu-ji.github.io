@@ -8,14 +8,13 @@ redirect_from:
   - /about.html
 ---
 
-### 📢 I'm looking for PhD position in HCI/HAI/VIS starting in Fall 2024!
+<!-- 📢 I'm looking for PhD position in HCI/HAI/VIS starting in Fall 2024!-->
 
 ## Hello!
 My name is Yishu Ji.
+I'm currently a first-year Ph.D. student in Human-Centered Computing at Georgia Tech, advised by [Prof. Cindy Xiong Bearfield](https://cyxiong.com/). 
 
-I'm currently a senior undgraduate in the [Department of Industrial Engineering](https://www.ie.tsinghua.edu.cn/) at [Tsinghua University](https://www.tsinghua.edu.cn/en/), majoring in industrial engineering while studying a psychology minor. 
-
-During my undergrad at Tsinghua, I was honored to collaborate with [Dr.Yukang Yan](https://yukangyan.info/) in [Pervasive HCI Lab](https://pi.cs.tsinghua.edu.cn/) led by [Prof.Yuanchun Shi](https://www.cs.tsinghua.edu.cn/csen/info/1180/4037.htm) to explore user's body-cognition in VR environment. I'm also very fortunate to work with [Prof.Jeff Rzeszotarski](https://jeffrz.com) at [Cornell CIS](https://cis.cornell.edu/) on the application of LLMs on automatic data visualization as an exchange student & visiting researcher.
+Prior to that,  I obtained my bachelor's degree in the [Department of Industrial Engineering](https://www.ie.tsinghua.edu.cn/) at [Tsinghua University](https://www.tsinghua.edu.cn/en/), where I was honored to collaborate with [Prof.Yukang Yan](https://yukangyan.info/) in [Pervasive HCI Lab](https://pi.cs.tsinghua.edu.cn/) led by [Prof.Yuanchun Shi](https://www.cs.tsinghua.edu.cn/csen/info/1180/4037.htm) to explore user's body-cognition in VR environment. I'm also fortunate to work with [Prof.Jeff Rzeszotarski](https://jeffrz.com) at [Cornell CIS](https://cis.cornell.edu/) on the application of LLMs on automatic data visualization as an exchange student & visiting researcher.
 
 Generally speaking, My research interest broadly lies in **"cognitive"** and **"visual"** aspect of **Human-Computer Interaction**. To be more specific, I am very interested in understanding how people would perceive/behave when using new technology, especially those incorporating visual information, through both quantitative and qualitative methods; and subsequently developing optimized tools or approaches to facilitate user experience as well as enhance the interactions.
 
