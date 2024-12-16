@@ -8,13 +8,14 @@ redirect_from:
 ---
 
 {% include base_path %}
-[Download the pdf version here.](https://yishu-ji.github.io/files/CV_YishuJi.pdf)
+[Download the pdf version here.](https://yishu-ji.github.io/files/YishuJI_s_CV.pdf)
 
 📚 Education
 ======
-* B.Eng. in Industrial Engineering, Tsinghua University, 2024 (expected)
-* Minor in Psychology, Tsinghua University, 2024 (expected)
-* Exchange program in Information Science, Cornell University, 2023 Spring
+* Ph.D. in Human-Centered Computing, Georgia Tech, 2029(expected)
+* B.Eng. in Industrial Engineering, Tsinghua University, 2024
+* Minor in Psychology, Tsinghua University, 2024
+* Exchange program in Information Science, Cornell University, Spring 2023
 
 🧐 Research experience
 ======
@@ -24,7 +25,7 @@ redirect_from:
     * Designed and implemented user studies to examine the assistive performance of LLMs on data exploration.
     * Constructed behavioral models for data exploration processes, and developed design prototypes.
 
-* Summer 2022 - Summer 2023: Research Assistant @ **PI Lab at Tsinghua University**
+* 2022 - 2023: Research Assistant @ **PI Lab at Tsinghua University**
   * Advised by [Prof. Yukang Yan](https://yukangyan.info/) and [Prof. Yuanchun Shi](https://www.cs.tsinghua.edu.cn/csen/info/1180/4037.htm)
     * Developed a computational model of user’s perception of inconsistency in User-Avatar movement in VR.
     * Designed a user study and developed a Unity 3D-based study platform to conduct the experiment.
@@ -32,7 +33,8 @@ redirect_from:
 
 📑 Publications
 ======
-* Zhipeng Li, **Yishu Ji**, Ruijia Chen, Tianqi Liu, Yuntao Wang, Yuanchun Shi, Yukang Yan. **"Modelling Effects of Visual Attention on Noticeability of Body-Avatar Offsets in Virtual Reality"**. (In submission to: *The 2024 CHI Conference on Human Factors in Computing Systems*)
+* Fengyuan Liu, **Yishu Ji**, Xin Lei, Pei-Luen Patrick Rau. **”Responses to Human and Robot Errors in Human–robot Collaboration: An fNIRS Study”**. In: *Proceedings of the International Conference on Human-Computer Interaction.* HCII’24
+* Zhipeng Li, **Yishu Ji**, Ruijia Chen, Tianqi Liu, Yuntao Wang, Yuanchun Shi, Yukang Yan. **"Modelling Effects of Visual Attention on Noticeability of Body-Avatar Offsets in Virtual Reality"**. (In submission to: *The 2025 CHI Conference on Human Factors in Computing Systems*)
 
 🏆 Awards
 ======
@@ -41,11 +43,11 @@ redirect_from:
 
 ⚙️ Skills
 ======
-* Programming languages including Python, C etc.
-* Data analysis tools including R, SPSS etc.
-* Unity
-* SQL
-* Latex
+* Programming languages (Python, C etc.)
+* Data analysis tools (R, SPSS etc.)
+* Data Visualization (Tableau)
+* Game engines (Unity)
+* Database system (SQL)
 * User-centered design (UCD)
 * Experiment design
 * Qualitative & quantitative research method
