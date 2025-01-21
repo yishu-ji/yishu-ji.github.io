@@ -7,7 +7,6 @@ redirect_from:
   - /resume
 ---
 
-{YishuJI's CV}
 [Download the pdf version here.](https://yishu-ji.github.io/files/YishuJI_s_CV.pdf)
 
 📚 Education
