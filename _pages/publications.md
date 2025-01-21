@@ -17,3 +17,5 @@ Zhipeng Li, **Yishu Ji**, Ruijia Chen, Tianqi Liu, Yuntao Wang, Yuanchun Shi, Yu
 ## Responses to Human and Robot Errors in Human‒robot Collaboration: An fNIRS Study
 In: *Proceedings of the International Conference on Human-Computer Interaction. HCII’24*
 Fengyuan Liu, **Yishu Ji**, Xin Lei, Pei-Luen Patrick  Rau
+Accepted by: *The 2025 CHI Conference on Human Factors in Computing Systems*  
+Zhipeng Li, **Yishu Ji**, Ruijia Chen, Tianqi Liu, Yuntao Wang, Yuanchun Shi, Yukang Yan
