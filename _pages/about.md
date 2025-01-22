@@ -18,9 +18,9 @@ Prior to that, I obtained my bachelor's degree in industrial engineering at Tsin
 My research interest broadly lies in **"cognitive"** and **"visual"** aspect of **Human-Computer Interaction**. To be more specific, I am very interested in understanding how people would perceive/behave when using new technology, especially those incorporating visual information, through both quantitative and qualitative methods; and subsequently developing optimized tools or approaches to facilitate user experience as well as enhance the interactions.
 
 ## News
-01/16/25: 🎉 Our paper **"Modelling Effects of Visual Attention on Noticeability of Body-Avatar Offsets in Virtual Reality"** was accepted by **CHI 2025**. Congrats to my collaborators!
+* *01/16/25*: 🎉 Our paper **"Modelling Effects of Visual Attention on Noticeability of Body-Avatar Offsets in Virtual Reality"** is accepted by **CHI 2025**. Congrats to my collaborators!
 
-## Fun fact
+## Fun facts
 Outside of my main pursuits, I've spent lots of time dancing or engaging in sports since an early age. I was recognized as a Chinese National Level Three Athlete in [Aerobics Gymnastics](https://en.wikipedia.org/wiki/Aerobic_gymnastics) at the age of 10.
 
 
