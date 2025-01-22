@@ -37,6 +37,7 @@ redirect_from:
 
 🏆 Awards
 ======
+* Outstanding Undergraduate (Magna Cum Laude, Top 10%) of Tsinghua University, 2024
 * Tsinghua University ”December 9th” Award (the highest scholarship for Tsinghua sophomores), 2021
 * Tsinghua Comprehensive Excellence Honor, 2023, 2022, 2021, 2020
 
