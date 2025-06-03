@@ -10,7 +10,9 @@ author_profile: true
 {% endif %}
 
 
-## Modelling Effects of Visual Attention on Noticeability of Body-Avatar Offsets in Virtual Reality
+## Modelling Effects of Visual Attention on Noticeability of Body-Avatar Offsets in Virtual Reality 
+<a href="https://dl.acm.org/doi/10.1145/3706598.3713392" style="text-decoration: underline dashed;">[Link]</a>
+
 Accepted by: *The 2025 CHI Conference on Human Factors in Computing Systems*  
 Zhipeng Li, **Yishu Ji**, Ruijia Chen, Tianqi Liu, Yuntao Wang, Yuanchun Shi, Yukang Yan
 
