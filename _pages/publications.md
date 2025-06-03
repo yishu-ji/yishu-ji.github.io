@@ -10,11 +10,11 @@ author_profile: true
 {% endif %}
 
 
-## Modelling Effects of Visual Attention on Noticeability of Body-Avatar Offsets in Virtual Reality
+**Modelling Effects of Visual Attention on Noticeability of Body-Avatar Offsets in Virtual Reality** <a href="https://dl.acm.org/doi/10.1145/3706598.3713392" style="text-decoration: underline dashed;">[Link]</a>
 
 Zhipeng Li, **Yishu Ji**, Ruijia Chen, Tianqi Liu, Yuntao Wang, Yuanchun Shi, Yukang Yan
 
-*CHI*, 2025 <a href="https://dl.acm.org/doi/10.1145/3706598.3713392" style="text-decoration: underline dashed;">[Link]</a>
+*CHI*, 2025 
 
 
 ## Responses to Human and Robot Errors in Human‒robot Collaboration: An fNIRS Study
