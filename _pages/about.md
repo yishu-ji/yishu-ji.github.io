@@ -20,7 +20,7 @@ Prior to that, I obtained my bachelor's degree in industrial engineering at Tsin
 ## News
 * *07/29/25*: Attend CogSci25 at San Francisco, CA.
 * *05/01/25*: Attend CHI25 at Yokohoma, Japan.
-* *01/16/25*: 🎉 Our paper **"Modelling Effects of Visual Attention on Noticeability of Body-Avatar Offsets in Virtual Reality"** is accepted by [CHI 2025](https://chi2025.acm.org/). Congrats to my collaborators!
+* *01/16/25*: 🎉 Our paper **"Modelling Effects of Visual Attention on Noticeability of Body-Avatar Offsets in Virtual Reality"** is accepted by **CHI25**. Congrats to my collaborators!
 
 ## Fun facts
 Outside of my main pursuits, I've spent lots of time dancing or engaging in sports since an early age. I was recognized as a Chinese National Level Three Athlete in [Aerobics Gymnastics](https://en.wikipedia.org/wiki/Aerobic_gymnastics) at the age of 10.
