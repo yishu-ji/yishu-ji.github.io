@@ -18,6 +18,8 @@ Prior to that, I obtained my bachelor's degree in industrial engineering at Tsin
 <!-- My research interest broadly lies in **"cognitive"** and **"visual"** aspect of **Human-Computer Interaction**. To be more specific, I am very interested in understanding how people would perceive/behave when using new technology, especially those incorporating visual information, through both quantitative and qualitative methods; and subsequently developing optimized tools or approaches to facilitate user experience as well as enhance the interactions. -->
 
 ## News
+* *07/29/25*: Attend CogSci25 at San Francisco, CA.
+* *05/01/25*: Attend CHI25 at Yokohoma, Japan.
 * *01/16/25*: 🎉 Our paper **"Modelling Effects of Visual Attention on Noticeability of Body-Avatar Offsets in Virtual Reality"** is accepted by [CHI 2025](https://chi2025.acm.org/). Congrats to my collaborators!
 
 ## Fun facts
