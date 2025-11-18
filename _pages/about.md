@@ -11,9 +11,7 @@ redirect_from:
 <!-- 📢 I'm looking for PhD position in HCI/HAI/VIS starting in Fall 2024!-->
 
 ## Hello! I'm Yishu Ji.
-I am currently a second-year Ph.D. student in [Human-Centered Computing](https://www.cc.gatech.edu/degree-programs/phd-human-centered-computing) at [Georgia Tech](https://www.gatech.edu/). 
-
-Prior to that, I obtained my bachelor's degree in industrial engineering at Tsinghua University, where I was honored to collaborate with [Prof.Yukang Yan](https://yukangyan.info/) in [Pervasive HCI Lab](https://pi.cs.tsinghua.edu.cn/) to explore using gaze behavior data to predict noticeability on motion redirection in VR environment. I'm also fortunate to work with [Prof.Jeff Rzeszotarski](https://jeffrz.com) at Cornell University on the application of LLMs on automatic data visualization.
+I am currently a second-year Ph.D. student in [Human-Centered Computing](https://www.cc.gatech.edu/degree-programs/phd-human-centered-computing) at [Georgia Tech](https://www.gatech.edu/). Prior to that, I obtained my bachelor's degree in industrial engineering at Tsinghua University, where I was honored to collaborate with [Prof.Yukang Yan](https://yukangyan.info/) to explore using gaze behavior data to predict noticeability on motion redirection in VR environment. I'm also fortunate to work with [Prof.Jeff Rzeszotarski](https://jeffrz.com) at Cornell University on the application of LLMs for automatic exploratory data analysis.
 
 
 I believe that passive sensing data—especially wearables—capture the rhythms of daily life, quietly revealing patterns that shape an individual’s experience.
