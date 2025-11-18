@@ -14,7 +14,7 @@ redirect_from:
 I am currently a second-year Ph.D. student in [Human-Centered Computing](https://www.cc.gatech.edu/degree-programs/phd-human-centered-computing) at [Georgia Tech](https://www.gatech.edu/). Prior to that, I obtained my bachelor's degree in industrial engineering at Tsinghua University, where I was honored to collaborate with [Prof.Yukang Yan](https://yukangyan.info/) to explore using gaze behavior data to predict noticeability on motion redirection in VR environment. I'm also fortunate to work with [Prof.Jeff Rzeszotarski](https://jeffrz.com) at Cornell University on the application of LLMs for automatic exploratory data analysis.
 
 
-I believe that passive sensing data, especially wearables, capture the rhythms of daily life and quietly reveal patterns that shape an individual’s experience.
+I believe that passive sensing data, especially wearables, quietly keep a "diary" on the rhythms of daily life, which reveal patterns that shape an individual’s experience.
 
 With such a belief, my research sits at the intersection of behavioral modeling and human-centered AI. I use computational methods on large-scale sensing data to understand and predict human behavior patterns. Building on this foundation, I aim to design human-aware AI systems that (a) support the interpretation and development of individualized behavioral models, and (b) leverage these models to anticipate needs, promote wellbeing, and enhance everyday life.
 
