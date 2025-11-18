@@ -16,7 +16,7 @@ I am currently a second-year Ph.D. student in [Human-Centered Computing](https:/
 Prior to that, I obtained my bachelor's degree in industrial engineering at Tsinghua University, where I was honored to collaborate with [Prof.Yukang Yan](https://yukangyan.info/) in [Pervasive HCI Lab](https://pi.cs.tsinghua.edu.cn/) to explore using gaze behavior data to predict noticeability on motion redirection in VR environment. I'm also fortunate to work with [Prof.Jeff Rzeszotarski](https://jeffrz.com) at Cornell University on the application of LLMs on automatic data visualization.
 
 
-Take a moment to look at your Apple Watch -- passive sensing data capture the rhythms of people’s daily lives, silently recording patterns that define an individual’s experience.
+I believe that passive sensing data, especially wearables, capture the rhythms of people’s daily lives, silently recording patterns that define an individual’s experience.
 
 With such a belief, my research lies at the intersection of computational behavioral modeling and human-centered AI. I apply computational methods to large-scale sensing data to understand and predict human states such as cognition, behavior, and health. Building on this foundation, I aim to design human-aware AI systems that (a) facilitate the interpretation and development of individualized behavioral models, and (b) leverage these models to anticipate needs, support wellbeing, and augment everyday life.
 
