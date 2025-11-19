@@ -5,5 +5,6 @@ collection: projects
 ---
 
 This is the team course project for **HCI Theory and Technology**
-- We Conducted a meta-research to help junior UX designers foster empathy with their users.
-- 
+- We developed an intelligent context-aware camera and gallery app using Andriod. The goal is to build an end-to-end automatic pipeline for photo classification and organization.
+- As users take photos, the app extracts contextual information (e.g., time, location, and schedule data) and automatically classifies each photo into the appropriate folder in the gallery.
+
