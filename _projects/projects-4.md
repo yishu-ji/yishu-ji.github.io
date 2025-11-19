@@ -1,15 +1,11 @@
 ---
-title: "What Makes a TikTok Song Popular? <br/>"
-excerpt: "<b>#Applied Statistics #Data Science</b><br/>Data Analytics on the connections between features of a TikTok track and its popularity.<br/><img src='/images/PCA.jpg' width='400' height='300'>"
+title: "How to distinguish a real exoplanet?"
+excerpt: "<b>#Machine Learning #Data Science</b><br/>Apply ML methods to classify exoplanets in Kepler dataset from NASA.<br/><img src='/images/Exoplanet.jpg' width='400' height='300'>"
 collection: projects
 ---
 
-It was the team project for **Applied Statistics and Data Analytics** that won **the Best Poster Award** 🏆. [Click to see our poster!](https://yishu-ji.github.io/files/TikTokPoster.pdf)<br/>
+It was the team project for **Machine Learning**. [Click to see our website page!]([https://yishu-ji.github.io/files/TikTokPoster.pdf](http://www.yishuji.me/ML-for-Exoplanet-Classification/))<br/>
 
-We endeavored to extract insights from large-scale data about the key factors that contribute to the trending TikTok tracks.
-- Various data anlaysis methods were applied, such as:
-  - Linear regression/Logistic regression/Ridge regression
-  - ANOVA
-  - Decision trees/Random Forest
+We explored how to apply ML algorithms to large-scale planet observation data to identify exoplanets from false positives.
 
-(Teammates: Yikai Cao, Haoran Guo. Each member of the team made equal contributions to this project.)
+The webpage was designed and developed by Yishu Ji, with the joint effect from teammates in Team 51 on the ML models development.(Teammates: Jiapeng Gao, Melvin Ticiano Gao, Ruishu Cao, Tanya Chauhan. Each member of the team made equal contributions to this project.)
