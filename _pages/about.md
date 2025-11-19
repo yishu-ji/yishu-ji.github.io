@@ -14,15 +14,15 @@ redirect_from:
 I am currently a second-year Ph.D. student in [Human-Centered Computing](https://www.cc.gatech.edu/degree-programs/phd-human-centered-computing) at [Georgia Tech](https://www.gatech.edu/). Prior to that, I obtained my bachelor's degree in industrial engineering at Tsinghua University, where I was honored to collaborate with [Prof.Yukang Yan](https://yukangyan.info/) to explore using gaze behavior data to predict noticeability on motion redirection in VR environment. I'm also fortunate to work with [Prof.Jeff Rzeszotarski](https://jeffrz.com) at Cornell University on the application of LLMs for automatic exploratory data analysis.
 
 
-I believe that passive sensing data, especially wearables, quietly keep a "diary" on the rhythms of daily life, which reveal patterns that shape an individual’s experience.
+I believe that passive sensing data, especially wearables, quietly keep a "diary" on the rhythms of our daily life, which reveal patterns that shape an individual’s experience.
 
 With such a belief, my research sits at the intersection of behavioral modeling and human-centered AI. I use computational methods on large-scale sensing data to understand and predict human behavior patterns. Building on this foundation, I aim to design and develop AI systems that **(a) support the interpretation and development of individualized behavioral models**, and **(b) leverage these models to anticipate needs, promote wellbeing, and enhance everyday life**.
 
 <!-- My research interest broadly lies in **"cognitive"** and **"visual"** aspect of **Human-Computer Interaction**. To be more specific, I am very interested in understanding how people would perceive/behave when using new technology, especially those incorporating visual information, through both quantitative and qualitative methods; and subsequently developing optimized tools or approaches to facilitate user experience as well as enhance the interactions. -->
 
 ## News
-* *07/29/25*: ✈️ Attend CogSci25 at San Francisco, CA. I presented a poster **"Visualizing Motion Traces Enhances Pursuit Detection in Dynamic Scenes"**.
-* *05/01/25*: ✈️ Attend CHI25 at Yokohoma, Japan.
+* *07/29/25*: ✈️ Attend CogSci25 at San Francisco, CA. I present a poster: **"Visualizing Motion Traces Enhances Pursuit Detection in Dynamic Scenes"**.
+* *05/01/25*: ✈️ Attend CHI25 at Yokohama, Japan.
 * *01/16/25*: 🎉 Our paper **"Modelling Effects of Visual Attention on Noticeability of Body-Avatar Offsets in Virtual Reality"** is accepted by **CHI25**. Congrats to my collaborators!
 
 ## Fun facts
