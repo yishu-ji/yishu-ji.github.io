@@ -27,8 +27,3 @@ Fengyuan Liu, **Yishu Ji**, Xin Lei, Pei-Luen Patrick  Rau \
 **Yishu Ji**, Maria Kon, Andrew Lovett, Mark Livingston, Sangeet Khemlani, Yalong Yang, Cindy Xiong Bearfield \
 *CogSci* 25
 
-# 
-# 
-# 
-# 
-# 
