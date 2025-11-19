@@ -1,5 +1,5 @@
 ---
-title: "How to distinguish a real exoplanet?"
+title: "From Observation to Fact: How to Distinguish a Real Exoplanet?"
 excerpt: "<b>#Machine Learning #Data Science</b><br/>Apply ML methods to classify exoplanets in Kepler dataset from NASA.<br/><img src='/images/Exoplanet.jpg' width='400' height='300'>"
 collection: projects
 ---
