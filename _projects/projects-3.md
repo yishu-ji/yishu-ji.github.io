@@ -1,6 +1,6 @@
 ---
 title: "I-Cam: An Intelligent Photo Gallery"
-excerpt: "<b>#HCI #Android Development #Design</b><br/><br/><br/><img src='/images/I-Cam.png' width='400' height='300'>"
+excerpt: "<b>#HCI #Android Development #Design</b><br/>A context-aware application for automatic photo organization<br/><img src='/images/I-Cam.png' width='400' height='300'>"
 collection: projects
 ---
 
