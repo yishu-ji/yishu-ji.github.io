@@ -4,7 +4,7 @@ excerpt: "<b>#Machine Learning #Data Science</b><br/>Apply ML methods to classif
 collection: projects
 ---
 
-It was the team project for **Machine Learning**. [Click to see our website page!]([https://yishu-ji.github.io/files/TikTokPoster.pdf](http://www.yishuji.me/ML-for-Exoplanet-Classification/))<br/>
+It was the team project for **Machine Learning**. [Click to see our website page!](https://www.yishuji.me/ML-for-Exoplanet-Classification/midterm.html)<br/>
 
 We explored how to apply ML algorithms to large-scale planet observation data to identify exoplanets from false positives.
 
