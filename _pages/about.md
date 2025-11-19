@@ -16,7 +16,7 @@ I am currently a second-year Ph.D. student in [Human-Centered Computing](https:/
 
 I believe that passive sensing data, especially wearables, quietly keep a "diary" on the rhythms of daily life, which reveal patterns that shape an individual’s experience.
 
-With such a belief, my research sits at the intersection of behavioral modeling and human-centered AI. I use computational methods on large-scale sensing data to understand and predict human behavior patterns. Building on this foundation, I aim to design human-aware AI systems that (a) support the interpretation and development of individualized behavioral models, and (b) leverage these models to anticipate needs, promote wellbeing, and enhance everyday life.
+With such a belief, my research sits at the intersection of behavioral modeling and human-centered AI. I use computational methods on large-scale sensing data to understand and predict human behavior patterns. Building on this foundation, I aim to design and develop AI systems that **(a) support the interpretation and development of individualized behavioral models**, and **(b) leverage these models to anticipate needs, promote wellbeing, and enhance everyday life**.
 
 <!-- My research interest broadly lies in **"cognitive"** and **"visual"** aspect of **Human-Computer Interaction**. To be more specific, I am very interested in understanding how people would perceive/behave when using new technology, especially those incorporating visual information, through both quantitative and qualitative methods; and subsequently developing optimized tools or approaches to facilitate user experience as well as enhance the interactions. -->
 
