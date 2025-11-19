@@ -26,7 +26,7 @@ With such a belief, my research sits at the intersection of behavioral modeling 
 * *01/16/25*: 🎉 Our paper **"Modelling Effects of Visual Attention on Noticeability of Body-Avatar Offsets in Virtual Reality"** is accepted by **CHI25**. Congrats to my collaborators!
 
 ## Fun facts
-Outside of my main pursuits, I've spent lots of time dancing or engaging in sports since an early age. I was recognized as a Chinese National Level Three Athlete in [Aerobics Gymnastics](https://en.wikipedia.org/wiki/Aerobic_gymnastics) at the age of 10.
+Outside of my main pursuits, I've spent lots of time engaging in sports and dance since an early age. I was recognized as a Chinese National Level Three Athlete in [Aerobics Gymnastics](https://en.wikipedia.org/wiki/Aerobic_gymnastics) at the age of 10.
 
 
 
