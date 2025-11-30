@@ -11,7 +11,7 @@ I'm reserving this little space to share several lines from one of my favorite p
 
 <div style="text-align:center; font-family:'Palatino Linotype','Book Antiqua',Palatino,Georgia,serif; margin-top:1em; font-size:1.15rem; line-height:1.6;">
 <br>
-The question, O me! so sad, recurring —  What good amid these, O me, O life?
+The question, O me! so sad, recurring—What good amid these, O me, O life?
 
 <br>
 <br>
@@ -20,7 +20,7 @@ The question, O me! so sad, recurring —  What good amid these, O me, O life?
 
 <br>
 
-That you are here — that life exists, and identity;
+That you are here-that life exists, and identity,
 
 <br>
 
