@@ -5,6 +5,7 @@ permalink: /a-poem-for-you/
 author_profile: true
 ---
 <div style="text-align:center; font-family:'Palatino Linotype','Book Antiqua',Palatino,Georgia,serif; margin-top:1em; font-size:1.15rem; line-height:1.6;">
+  <br>
 </div>
 
 I'm reserving this little space to share several lines from one of my favorite poems, with those who are questioning, challenging, pursuing, or sometimes dizzying over the essential meaning of our being — whether in a research, in a job, or in a life: [**O Me! O Life!**](https://www.poetryfoundation.org/poems/51568/o-me-o-life) by [Walt Whitman](https://en.wikipedia.org/wiki/Walt_Whitman) 
