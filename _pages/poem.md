@@ -1,12 +1,12 @@
 ---
 layout: archive
-title: "✨"
+title: "Lines for You"
 permalink: /a-poem-for-you/
 author_profile: true
 ---
 
-I'm reserving this space to share one of my favorite poems with those who are still questioning, challenging, pursuing, or perhaps feeling confused about the essential meaning of our being.  
-[**O Me! O Life!**](https://www.poetryfoundation.org/poems/51568/o-me-o-life) by [Walt Whitman](https://en.wikipedia.org/wiki/Walt_Whitman)
+
+I'm reserving this space to share some lines from one of my favorite poems, for those who are still questioning, challenging, pursuing, or perhaps feeling confused about the essential meaning of our being — in life, in work, or in academic research.[**O Me! O Life!**](https://www.poetryfoundation.org/poems/51568/o-me-o-life) by [Walt Whitman](https://en.wikipedia.org/wiki/Walt_Whitman) 
 
 <div style="text-align:center; font-family:'Palatino Linotype','Book Antiqua',Palatino,Georgia,serif; margin-top:1em; font-size:1.15rem; line-height:1.6;">
 
