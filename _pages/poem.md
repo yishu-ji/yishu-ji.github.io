@@ -20,7 +20,7 @@ The question, O me! so sad, recurring—What good amid these, O me, O life?
 
 <br>
 
-That you are here-that life exists, and identity,
+That you are here—that life exists, and identity,
 
 <br>
 
