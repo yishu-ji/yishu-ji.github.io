@@ -19,8 +19,10 @@ The question, O me! so sad, recurring —  What good amid these, O me, O life?
 
 <br>
 
-*That you are here — that life exists, and identity;*  
-*That the powerful play goes on, and you may contribute a verse.*
+That you are here — that life exists, and identity;
+
+That the powerful play goes on, and you may contribute a verse.
+
 <br>
 <br>
 </div>
