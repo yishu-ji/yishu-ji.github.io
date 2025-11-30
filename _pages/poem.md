@@ -10,7 +10,7 @@ I'm reserving this space to share some lines from one of my favorite poems, for 
 
 <div style="text-align:center; font-family:'Palatino Linotype','Book Antiqua',Palatino,Georgia,serif; margin-top:1em; font-size:1.15rem; line-height:1.6;">
 
-*The question, O me! so sad, recurring - What good amid these, O me, O life?*
+The question, O me! so sad, recurring - What good amid these, O me, O life?
 
 <br>
 
@@ -18,8 +18,8 @@ I'm reserving this space to share some lines from one of my favorite poems, for 
 
 <br>
 
-*That you are here — that life exists and identity,*  
-*That the powerful play goes on, and you may contribute a verse.*
+That you are here — that life exists and identity,
+That the powerful play goes on, and you may contribute a verse.
 
 </div>
 
