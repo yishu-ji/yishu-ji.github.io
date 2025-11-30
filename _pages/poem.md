@@ -17,10 +17,10 @@ I'm reserving this space to share one of my favorite poems with those who are st
 Let's contribute a verse. Cheers. 与你共勉
 
 
-I'm reserving this space to share one of my favorite poems with those who are still questioning, challenging, pursuing, or perhaps dizzying at the essential significance of our being.  
+I'm reserving this space to share one of my favorite poems with those who are still questioning, challenging, pursuing, or perhaps feeling confused about the essential meaning of our being.  
 [**O Me! O Life!**](https://www.poetryfoundation.org/poems/51568/o-me-o-life) by [Walt Whitman](https://en.wikipedia.org/wiki/Walt_Whitman)
 
-<div style="text-align:center; font-family:'Times New Roman', Times, serif; margin-top:1em;">
+<div style="text-align:center; font-family:'Palatino Linotype','Book Antiqua',Palatino,Georgia,serif; margin-top:1em; font-size:1.15rem; line-height:1.6;">
 
 *The question, O me! so sad, recurring —*  
 *What good amid these, O me, O life?*
@@ -37,4 +37,5 @@ I'm reserving this space to share one of my favorite poems with those who are st
 </div>
 
 Let us each contribute a verse. Cheers. 与你共勉。
+
 
