@@ -21,6 +21,7 @@ With such a belief, my research sits at the intersection of behavioral modeling 
 <!-- My research interest broadly lies in **"cognitive"** and **"visual"** aspect of **Human-Computer Interaction**. To be more specific, I am very interested in understanding how people would perceive/behave when using new technology, especially those incorporating visual information, through both quantitative and qualitative methods; and subsequently developing optimized tools or approaches to facilitate user experience as well as enhance the interactions. -->
 
 ## News
+* *01/16/26*: 🎉 Our paper **"More Than Decision Support: Exploring Patients' Longitudinal Usage of Large Language Models in Real-World Healthcare Settings"** is accepted by **CHI26**. Congrats to my collaborators!
 * *07/29/25*: ✈️ Attend CogSci25 at San Francisco, CA. I present a poster: **"Visualizing Motion Traces Enhances Pursuit Detection in Dynamic Scenes"**.
 * *05/01/25*: ✈️ Attend CHI25 at Yokohama, Japan.
 * *01/16/25*: 🎉 Our paper **"Modelling Effects of Visual Attention on Noticeability of Body-Avatar Offsets in Virtual Reality"** is accepted by **CHI25**. Congrats to my collaborators!
