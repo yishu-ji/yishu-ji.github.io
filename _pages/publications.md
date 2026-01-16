@@ -11,9 +11,8 @@ author_profile: true
 
 ## Paper
 
-Yishu Ji, Aimen Gaba, Reid Laughton, Duen Horng (Polo) Chau, Cindy Xiong Bearfield. 
 **Capturing the Gist: How Data Approximation Algorithms Align with Human Perception in Time-Series Visualizations** \
-Yishu Ji, Aimen Gaba, Reid Laughton, Duen Horng (Polo) Chau, Cindy Xiong Bearfield \
+**Yishu Ji**, Aimen Gaba, Reid Laughton, Duen Horng (Polo) Chau, Cindy Xiong Bearfield \
 (Under review by IEEE TVCG)
 
 **More than Decision Support: Exploring Patients' Longitudinal Usage of Large Language Models in Real-World Healthcare Settings** \
