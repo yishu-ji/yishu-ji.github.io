@@ -11,6 +11,19 @@ author_profile: true
 
 ## Paper
 
+Yishu Ji, Aimen Gaba, Reid Laughton, Duen Horng (Polo) Chau, Cindy Xiong Bearfield. 
+**Capturing the Gist: How Data Approximation Algorithms Align with Human Perception in Time-Series Visualizations** \
+Yishu Ji, Aimen Gaba, Reid Laughton, Duen Horng (Polo) Chau, Cindy Xiong Bearfield \
+(Under review by IEEE TVCG)
+
+**More than Decision Support: Exploring Patients' Longitudinal Usage of Large Language Models in Real-World Healthcare Settings** \
+Yancheng Cao, **Yishu Ji**, Yue Fu, Sahiti Dharmavaram, Dr. Meghan Turchioe, Natalie C Benda, Lena Mamykina, Yuling Sun, Xuhai "Orson" Xu \
+(Accepted by *CHI* 2026) \
+
+**More than Decision Support: Exploring Patients' Longitudinal Usage of Large Language Models in Real-World Healthcare Settings** \
+Yancheng Cao, **Yishu Ji**, Yue Fu, Sahiti Dharmavaram, Dr. Meghan Turchioe, Natalie C Benda, Lena Mamykina, Yuling Sun, Xuhai "Orson" Xu \
+*CHI* 2026 (Accepted) \
+
 **Modelling Effects of Visual Attention on Noticeability of Body-Avatar Offsets in Virtual Reality** \
 Zhipeng Li, **Yishu Ji**, Ruijia Chen, Tianqi Liu, Yuntao Wang, Yuanchun Shi, Yukang Yan \
 *CHI* 2025 \
