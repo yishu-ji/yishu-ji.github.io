@@ -11,9 +11,8 @@ redirect_from:
 
 📚 Education
 ======
-* Ph.D. in Human-Centered Computing, Georgia Tech, 2029 (expected)
-* B.Eng. in Industrial Engineering, Tsinghua University, 2024
-* Minor in Psychology, Tsinghua University, 2024
+* M.S. in Human-Centered Computing, Georgia Tech (current degree)
+* B.Eng. in Industrial Engineering and Psychology, Tsinghua University, 2024
 * Exchange program in Information Science, Cornell University, Spring 2023
 
 🧐 Research experience
