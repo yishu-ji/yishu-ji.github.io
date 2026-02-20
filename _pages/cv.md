@@ -11,7 +11,7 @@ redirect_from:
 
 📚 Education
 ======
-* M.S. in Human-Centered Computing, Georgia Tech (current degree)
+* M.S. in Human-Centered Computing, Georgia Tech, Ongoing
 * B.Eng. in Industrial Engineering and Minor in Psychology, Tsinghua University, 2024
 * Exchange program in Information Science, Cornell University, Spring 2023
 
