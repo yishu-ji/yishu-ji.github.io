@@ -17,7 +17,7 @@ author_profile: true
 
 
 **More than Decision Support: Exploring Patients' Longitudinal Usage of Large Language Models in Real-World Healthcare Settings** \
-Yancheng Cao, **Yishu Ji**, Yue Fu, Sahiti Dharmavaram, Dr. Meghan Turchioe, Natalie C Benda, Lena Mamykina, Yuling Sun, Xuhai "Orson" Xu \
+Yancheng Cao, <a style="text-decoration: underline dashed;">Yishu Ji</a>, Yue Fu, Sahiti Dharmavaram, Dr. Meghan Turchioe, Natalie C Benda, Lena Mamykina, Yuling Sun, Xuhai "Orson" Xu \
 (Accepted by *CHI* 2026)
 
 
