@@ -80,7 +80,6 @@ html {
   p {
     margin: 0 0 $indent-var;
 
-    /* sibling indentation*/
     @if $paragraph-indent == true {
       & + p {
         text-indent: $indent-var;
@@ -89,6 +88,7 @@ html {
     }
   }
 
+  /* Default link style */
   a {
     text-decoration: underline;
 
@@ -99,6 +99,17 @@ html {
         box-shadow: 0 0 10px rgba(#000, 0.25);
       }
     }
+  }
+
+  .author-highlight {
+    color: #a579c7;
+    // font-weight: 600; /* optional but recommended */
+    text-decoration: none !important;
+  }
+
+  .author-highlight:hover,
+  .author-highlight:focus {
+    text-decoration: none !important;
   }
 
   dt {
@@ -117,7 +128,6 @@ html {
     font-size: $type-size-6;
   }
 
-  /* blockquote citations */
   blockquote + .small {
     margin-top: -1.5em;
     padding-left: 1.25rem;
