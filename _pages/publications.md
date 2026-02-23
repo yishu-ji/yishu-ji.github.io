@@ -34,6 +34,6 @@ Fengyuan Liu, <span class="author-highlight">Yishu Ji</span>, Xin Lei, Pei-Luen 
 
 ## Poster
 **Visualizing Motion Traces Enhances Pursuit Detection in Dynamic Scenes”** \
-<a style="text-decoration">Yishu Ji</a>, Maria Kon, Andrew Lovett, Mark Livingston, Sangeet Khemlani, Yalong Yang, Cindy Xiong Bearfield \
+<span class="author-highlight">Yishu Ji</span>, Maria Kon, Andrew Lovett, Mark Livingston, Sangeet Khemlani, Yalong Yang, Cindy Xiong Bearfield \
 *CogSci* 25
 
