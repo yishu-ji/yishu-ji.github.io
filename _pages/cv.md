@@ -7,11 +7,12 @@ redirect_from:
   - /resume
 ---
 
-[Download the pdf version here.](https://yishu-ji.github.io/files/Resume_YishuJi_Oct25.pdf)
+<!-- [Download the pdf version here.](https://yishu-ji.github.io/files/Resume_YishuJi_Oct25.pdf) -->
 
 📚 Education
 ======
-* M.S. in Human-Centered Computing, Georgia Tech, Ongoing
+* Ph.D. in Computer Science & Engineering, University of Washington, Ongoing
+* M.S. in Human-Centered Computing, Georgia Tech, 2026
 * B.Eng. in Industrial Engineering and Minor in Psychology, Tsinghua University, 2024
 * Exchange program in Information Science, Cornell University, Spring 2023
 
