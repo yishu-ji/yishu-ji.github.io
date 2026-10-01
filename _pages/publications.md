@@ -18,7 +18,8 @@ author_profile: true
 
 **More than Decision Support: Exploring Patients' Longitudinal Usage of Large Language Models in Real-World Healthcare Settings** \
 Yancheng Cao, <span class="author-highlight">Yishu Ji</span>, Yue Fu, Sahiti Dharmavaram, Dr. Meghan Turchioe, Natalie C Benda, Lena Mamykina, Yuling Sun, Xuhai "Orson" Xu \
-(Accepted by *CHI* 2026)
+*CHI* 2026 \
+<a href="https://dl.acm.org/doi/full/10.1145/3772318.3791946" style="text-decoration: underline dashed;">[Link]</a>
 
 
 **Modelling Effects of Visual Attention on Noticeability of Body-Avatar Offsets in Virtual Reality** \
