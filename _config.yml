@@ -11,7 +11,7 @@ locale                   : "en-US"
 title                    : "Yishu Ji's Homepage"
 title_separator          : "-"
 name                     : &name "Yishu Ji"
-description              : &description "Graduate student at Georgia Tech"
+description              : &description "PhD student at UW CSE"
 logo                     : "favicon.svg"
 url                      : https://www.yishuji.me # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -84,12 +84,12 @@ analytics:
 author:
   name             : "Yishu Ji"
   avatar           : "bio-photo-3.jpg"
-  bio              : "Graduate student at Georgia Tech"
-  # location         : "Atlanta, GA"
+  bio              : "PhD student at UW CSE"
+  # location         : "Seattle, WA"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=yLEuM24AAAAJ"
-  email            : "yji329@gatech.edu"
+  email            : "yishuji@cs.washington.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -111,7 +111,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "yishu_ji"
+  twitter          : # "yishu_ji"
   vine             :
   weibo            :
   xing             :
