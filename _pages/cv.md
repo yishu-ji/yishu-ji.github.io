@@ -14,7 +14,18 @@ redirect_from:
 * Ph.D. in Computer Science & Engineering, University of Washington, Ongoing
 * M.S. in Human-Centered Computing, Georgia Tech, 2026
 * B.Eng. in Industrial Engineering and Minor in Psychology, Tsinghua University, 2024
-* Exchange program in Information Science, Cornell University, Spring 2023
+
+📑 Publications
+======
+* Yancheng Cao, **Yishu Ji**, Yue Fu, Sahiti Dharmavaram, Dr. Meghan Turchioe, Natalie C Benda, Lena Mamykina, Yuling Sun, Xuhai “Orson” Xu. **"More than Decision Support: Exploring Patients’ Longitudinal Usage of Large Language Models in Real-World Healthcare Settings"**. In: *Proceedings of the CHI Conference on Human Factors in Computing Systems.* CHI’26* 
+* Zhipeng Li, **Yishu Ji**, Ruijia Chen, Tianqi Liu, Yuntao Wang, Yuanchun Shi, Yukang Yan. **"Modelling Effects of Visual Attention on Noticeability of Body-Avatar Offsets in Virtual Reality"**. In: *Proceedings of the CHI Conference on Human Factors
+in Computing Systems.* CHI’25* 
+* Fengyuan Liu, **Yishu Ji**, Xin Lei, Pei-Luen Patrick Rau. **”Responses to Human and Robot Errors in Human–robot Collaboration: An fNIRS Study”**. In: *Proceedings of the International Conference on Human-Computer Interaction.* HCII’24
+
+🎤 Posters and Presentations
+======
+* **Yishu Ji**, Maria Kon, Andrew Lovett, Mark Livingston, Sangeet Khemlani, Yalong Yang, Cindy Xiong Bearfield. **“Visualizing Motion Traces Enhances Pursuit Detection in Dynamic Scenes”**. Poster presented at: The Annual Meeting of the Cognitive
+Science Society. CogSci’25
 
 🧐 Research experience
 ======
@@ -43,22 +54,13 @@ redirect_from:
   * Advised by Prof. Pei-Luen Patrick Rau
     * Performed an experiment design and implemented the study platform with robot NAO. And conducted a user study with EEG to collect sensing and survey data in credit assignment in HRI scenarios.
 
-📑 Publications
-======
-* Zhipeng Li, **Yishu Ji**, Ruijia Chen, Tianqi Liu, Yuntao Wang, Yuanchun Shi, Yukang Yan. **"Modelling Effects of Visual Attention on Noticeability of Body-Avatar Offsets in Virtual Reality"**. In: *Proceedings of the CHI Conference on Human Factors
-in Computing Systems.* CHI’25
-* Fengyuan Liu, **Yishu Ji**, Xin Lei, Pei-Luen Patrick Rau. **”Responses to Human and Robot Errors in Human–robot Collaboration: An fNIRS Study”**. In: *Proceedings of the International Conference on Human-Computer Interaction.* HCII’24
-
-🎤 Posters and Presentations
-======
-* **Yishu Ji**, Maria Kon, Andrew Lovett, Mark Livingston, Sangeet Khemlani, Yalong Yang, Cindy Xiong Bearfield. **“Visualizing Motion Traces Enhances Pursuit Detection in Dynamic Scenes”**. Poster presented at: The Annual Meeting of the Cognitive
-Science Society. CogSci’25
 
 🏆 Awards
 ======
-* Outstanding Undergraduate of Tsinghua University (Magna Cum Laude, Top 10%), 2024
-* Tsinghua University ”December 9th” Award (Top 2%), 2021
-* Tsinghua Comprehensive Excellence Honor (Top 15%), 2023, 2022, 2021, 2020
+* Dora Zee Ling Endowed Fellowship in CSE, University of Washington, 2026
+* Outstanding Undergraduate (Magna Cum Laude, Top 10%), Tsinghua University, 2024
+* ”December 9th” Award (Top 2%), Tsinghua University, 2021
+* Comprehensive Excellence Honor (Top 15%), Tsinghua University, 2023, 2022, 2021, 2020
 
 ⚙️ Skills
 ======
