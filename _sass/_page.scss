@@ -179,3 +179,58 @@ span.author-highlight {
   }
 }
 /* =================================== */
+
+/* ===== Publication labels ===== */
+.pub__labels {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.4em;
+  margin-top: 0.5em;
+}
+
+.pub-label {
+  display: inline-block;
+  font-family: inherit;
+  cursor: pointer;
+  transition: opacity 0.15s ease, background-color 0.15s ease;
+  padding: 0.15em 0.65em;
+  border-radius: 999px;
+  border: 1px solid;
+  font-size: 0.75em;
+  font-weight: 600;
+  line-height: 1.5;
+  white-space: nowrap;
+}
+
+@mixin pub-label-color($c) {
+  color: $c;
+  background-color: rgba($c, 0.14);
+  border-color: rgba($c, 0.45);
+}
+
+.pub-label--human-centered-ai      { @include pub-label-color(#f5a54a); } // amber
+.pub-label--health-wellbeing       { @include pub-label-color(#5ea8ff); } // blue
+.pub-label--passive-sensing        { @include pub-label-color(#4cc38a); } // green
+.pub-label--visualization          { @include pub-label-color(#f472b6); } // pink
+.pub-label--perception-cognition   { @include pub-label-color(#a78bfa); } // violet
+.pub-label--all                    { @include pub-label-color(#c8c8c8); } // neutral
+
+/* ===== Publication filter bar ===== */
+.pub-filter {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5em;
+  margin: 0.5em 0 1.5em;
+  scroll-margin-top: 1em;
+
+  .pub-label { font-size: 0.85em; padding: 0.3em 0.9em; }
+}
+
+.pub-label:hover { filter: brightness(1.15); }
+.pub-label:focus-visible { outline: 2px solid currentColor; outline-offset: 2px; }
+.pub-filter .pub-label.is-active { box-shadow: 0 0 0 1.5px currentColor; }
+.pub-label.is-dimmed { opacity: 0.35; }
+
+.pub.is-hidden,
+.pub-section.is-hidden,
+.pub-empty.is-hidden { display: none !important; }

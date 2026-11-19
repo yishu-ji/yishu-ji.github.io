@@ -1,42 +1,57 @@
 # Publications shown on /publications/.
 # image: path to a figure in /images/publications/ (leave blank for the placeholder)
 # Wrap your own name in <span class="author-highlight">...</span>
+# labels: any of the names in the "labels" list below (colors set in _sass/_page.scss)
+
+# Order of the labels in the filter bar at the top of the page
+labels:
+  - "Human-Centered AI"
+  - "Health & Wellbeing"
+  - "Passive Sensing"
+  - "Visualization"
+  - "Perception & Cognition"
 
 papers:
   - title: "OAK-Mind: Zero-Training Mental Health Change Inference from Passive Sensing via Knowledge-Grounded Multi-Agent LLMs"
     authors: '<span class="author-highlight">Yishu Ji</span>, Zhihan Jiang, Will Wang, Yuang Fan, Anind Dey, Xuhai "Orson" Xu'
     venue: "Under review by IMWUT"
     image: /images/publications/oakmind.jpg
+    labels: ["Human-Centered AI", "Health & Wellbeing", "Passive Sensing"]
     link: "https://arxiv.org/abs/2611.22248"
 
   - title: "Through the AI Mirror: How Sycophantic and Provocative AI Shapes the Social Self in Interpersonal Conflict"
     # authors: 'Lingqing Wang, <span class="author-highlight">Yishu Ji</span>, Ashok Goel'
     venue: "Under review by FAccT"
     image: /images/publications/sycophancy.jpg
+    labels: ["Human-Centered AI"]
     link:
 
   - title: "More than Decision Support: Exploring Patients' Longitudinal Usage of Large Language Models in Real-World Healthcare Settings"
     authors: 'Yancheng Cao, <span class="author-highlight">Yishu Ji</span>, Yue Fu, Sahiti Dharmavaram, Meghan Turchioe, Natalie C Benda, Lena Mamykina, Yuling Sun, Xuhai "Orson" Xu'
     venue: "<em>CHI</em> 2026"
     image: /images/publications/aidoctor.png
+    labels: ["Human-Centered AI", "Health & Wellbeing"]
     link: "https://dl.acm.org/doi/full/10.1145/3772318.3791946"
 
   - title: "Capturing the Gist: How Data Approximation Algorithms Align with Human Perception in Time-Series Visualizations"
     authors: '<span class="author-highlight">Yishu Ji</span>, Aimen Gaba, Reid Laughton, Duen Horng (Polo) Chau, Cindy Xiong Bearfield'
     venue: "In revision to IEEE TVCG"
     image: /images/publications/gist.jpg
+    labels: ["Visualization", "Perception & Cognition"]
     link:
 
   - title: "Modelling Effects of Visual Attention on Noticeability of Body-Avatar Offsets in Virtual Reality"
     authors: 'Zhipeng Li, <span class="author-highlight">Yishu Ji</span>, Ruijia Chen, Tianqi Liu, Yuntao Wang, Yuanchun Shi, Yukang Yan'
     venue: "<em>CHI</em> 2025"
     image: /images/publications/noticeability.png
+    labels: ["Passive Sensing", "Perception & Cognition"]
     link: "https://dl.acm.org/doi/10.1145/3706598.3713392"
 
   - title: "Responses to Human and Robot Errors in Human–Robot Collaboration: An fNIRS Study"
     authors: 'Fengyuan Liu, <span class="author-highlight">Yishu Ji</span>, Xin Lei, Pei-Luen Patrick Rau'
     venue: "<em>HCII</em> 2024"
     image: /images/publications/fnirs.png
+    labels: ["Passive Sensing", "Perception & Cognition"]
     link: "https://dl.acm.org/doi/10.1007/978-3-031-60913-8_19"
 
 posters:
@@ -44,4 +59,5 @@ posters:
     authors: '<span class="author-highlight">Yishu Ji</span>, Maria Kon, Andrew Lovett, Mark Livingston, Sangeet Khemlani, Yalong Yang, Cindy Xiong Bearfield'
     venue: "<em>CogSci</em> 2025"
     image: /images/publications/trace.jpg
+    labels: ["Visualization", "Perception & Cognition"]
     link:
