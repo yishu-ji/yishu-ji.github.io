@@ -115,6 +115,7 @@ html {
   }
   /* =================================== */
 
+
   dt {
     margin-top: 1em;
     font-family: $sans-serif;
@@ -136,3 +137,45 @@ html {
     padding-left: 1.25rem;
   }
 }
+
+/* ===== Publication list ===== */
+span.author-highlight {
+  color: #a579c7;
+  font-weight: 600;
+  text-decoration: none;
+}
+
+.pub {
+  display: flex !important;
+  flex-direction: row !important;
+  flex-wrap: nowrap;
+  gap: 1em;
+  align-items: flex-start;
+  margin-bottom: 1.5em;
+}
+
+.pub img.pub__figure {
+  display: block;
+  flex: 0 0 200px;
+  width: 200px !important;
+  max-width: 200px !important;
+  height: 150px;
+  margin: 0.2em 0 0;
+  object-fit: cover;
+  border-radius: 6px;
+  border: 1px solid #e5e5e5;
+}
+
+.pub__body { flex: 1 1 auto; min-width: 0; }
+.pub__title { font-weight: 700; margin-bottom: 0.25em; }
+.pub__authors { margin-bottom: 0.25em; }
+
+@media (max-width: 600px) {
+  .pub img.pub__figure {
+    flex-basis: 80px;
+    width: 80px !important;
+    max-width: 80px !important;
+    height: 60px;
+  }
+}
+/* =================================== */

@@ -1,0 +1,9 @@
+{% include base_path %}
+<div class="pub">
+  <img class="pub__figure" src="{{ base_path }}{{ include.pub.image | default: '/images/publications/placeholder.svg' }}" alt="Figure for {{ include.pub.title | escape }}" loading="lazy">
+  <div class="pub__body">
+    <div class="pub__title">{{ include.pub.title }}</div>
+    <div class="pub__authors">{{ include.pub.authors }}</div>
+    <div class="pub__venue">{{ include.pub.venue }}{% if include.pub.link %} · <a href="{{ include.pub.link }}">Link</a>{% endif %}</div>
+  </div>
+</div>

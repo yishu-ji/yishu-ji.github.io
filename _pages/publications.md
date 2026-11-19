@@ -5,36 +5,18 @@ permalink: /publications/
 author_profile: true
 ---
 
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
+<!-- {% if site.author.googlescholar %}
+  You can also find my articles on <a href="{{ site.author.googlescholar }}">my Google Scholar profile</a>.
+{% endif %} -->
 
 ## Paper
 
-**Capturing the Gist: How Data Approximation Algorithms Align with Human Perception in Time-Series Visualizations** \
-<span class="author-highlight">Yishu Ji</span>, Aimen Gaba, Reid Laughton, Duen Horng (Polo) Chau, Cindy Xiong Bearfield \
-(Under review by IEEE TVCG)
-
-
-**More than Decision Support: Exploring Patients' Longitudinal Usage of Large Language Models in Real-World Healthcare Settings** \
-Yancheng Cao, <span class="author-highlight">Yishu Ji</span>, Yue Fu, Sahiti Dharmavaram, Dr. Meghan Turchioe, Natalie C Benda, Lena Mamykina, Yuling Sun, Xuhai "Orson" Xu \
-*CHI* 2026 \
-<a href="https://dl.acm.org/doi/full/10.1145/3772318.3791946" style="text-decoration: underline dashed;">[Link]</a>
-
-
-**Modelling Effects of Visual Attention on Noticeability of Body-Avatar Offsets in Virtual Reality** \
-Zhipeng Li, <span class="author-highlight">Yishu Ji</span>, Ruijia Chen, Tianqi Liu, Yuntao Wang, Yuanchun Shi, Yukang Yan \
-*CHI* 2025 \
-<a href="https://dl.acm.org/doi/10.1145/3706598.3713392" style="text-decoration: underline dashed;">[Link]</a>
-
-
-**Responses to Human and Robot Errors in Human‒robot Collaboration: An fNIRS Study** \
-Fengyuan Liu, <span class="author-highlight">Yishu Ji</span>, Xin Lei, Pei-Luen Patrick  Rau \
-*HCII* 2024 \
-<a href="https://dl.acm.org/doi/10.1007/978-3-031-60913-8_19" style="text-decoration: underline dashed;">[Link]</a> 
+{% for pub in site.data.publications.papers %}
+  {% include publication-entry.html pub=pub %}
+{% endfor %}
 
 ## Poster
-**Visualizing Motion Traces Enhances Pursuit Detection in Dynamic Scenes”** \
-<span class="author-highlight">Yishu Ji</span>, Maria Kon, Andrew Lovett, Mark Livingston, Sangeet Khemlani, Yalong Yang, Cindy Xiong Bearfield \
-*CogSci* 25
 
+{% for pub in site.data.publications.posters %}
+  {% include publication-entry.html pub=pub %}
+{% endfor %}
