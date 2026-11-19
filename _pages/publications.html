@@ -47,6 +47,10 @@ author_profile: true
       var labels = (p.getAttribute('data-labels') || '').split(' ');
       p.classList.toggle('is-hidden', label !== '' && labels.indexOf(label) === -1);
     });
+    // Also dim the non-matching labels on each paper card.
+    document.querySelectorAll('.pub__labels .pub-label').forEach(function (t) {
+      t.classList.toggle('is-dimmed', label !== '' && t.getAttribute('data-label') !== label);
+    });
     sections.forEach(function (s) {
       var shown = s.querySelectorAll('.pub:not(.is-hidden)').length > 0;
       s.classList.toggle('is-hidden', !shown);

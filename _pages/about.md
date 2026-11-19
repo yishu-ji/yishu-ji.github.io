@@ -8,14 +8,13 @@ redirect_from:
   - /about.html
 ---
 
-<!-- 📢 I'm looking for PhD position in HCI/HAI/VIS starting in Fall 2024!-->
+📢 I'm looking for internship opportunity in agentic LLM and human-centered AI for wellbeing in Summer 2027!
 
 ## Hello! I'm Yishu Ji.
-I am a first-year CSE PhD student at University of Washington, advised by Dr. Anind Dey.
+I am a first-year CSE PhD student at University of Washington, advised by [Prof.Anind Dey](https://ischool.uw.edu/people/faculty/profile/anind).
 Prior to that, I earned my M.S. in Computer Science from Georgia Tech, and B.Eng. in Industrial Engineering from Tsinghua University. 
 
 <!-- I was fortunate to be mentored by some amazing researchers who inspired my current research: [Prof.Yukang Yan](https://yukangyan.info/) for using gaze behavior data to predict noticeability on motion redirection in VR environment, and [Prof.Jeff Rzeszotarski](https://jeffrz.com) for the application of LLMs on automatic exploratory data analysis. -->
-
 
 I believe that passive sensing data, especially wearables, quietly keep a "diary" on the rhythms of our daily life, which reveal patterns that shape an individual’s experience. However, sensing itself stops at recording, and emerging generative AI has the potential to read the "diary" and provide further support for users.
 
